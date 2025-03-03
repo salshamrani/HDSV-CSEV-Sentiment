@@ -36,8 +36,8 @@ This repository contains code to reproduce the experiments from the paper **"Eff
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/salshamrani/HDSV-CSEV-Sentiment
+   cd HDSV-CSEV-Sentiment
    ```
 2. Install dependencies:
    ```bash
